@@ -1,2 +1,2 @@
-# AKM2498K146-FurnitureSounds
-Furniture Sounds recorded by AKM2498K146
+# AKM2498K146-PercussiveSounds
+Various Percussive Sounds (e.g. Furniture) recorded by AKM2498K146

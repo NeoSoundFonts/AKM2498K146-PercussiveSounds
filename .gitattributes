@@ -1,0 +1,4 @@
+* text=auto
+
+*.sfz text eol=lf
+*.wav binary
