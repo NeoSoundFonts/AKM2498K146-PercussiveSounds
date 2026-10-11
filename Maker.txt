@@ -18,6 +18,16 @@ url=https://musical-artifacts.com/artifacts/9382
 打击音13.wav
 打击音14.wav
 打击音15.wav
+打击音16.wav
+打击音17.wav
+打击音18.wav
+打击音19.wav
+打击音20.wav
+打击音21.wav
+打击音22.wav
+打击音23.wav
+打击音24.wav
+打击音25.wav
 攻击纸盒箱01(侧).wav
 攻击纸盒箱02(侧).wav
 攻击纸盒箱03(侧).wav
